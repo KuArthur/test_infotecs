@@ -1,0 +1,9 @@
+.table {
+    max-width: 50%;
+    width: 100%;
+}
+
+.table,.table__column,.table__row {
+    border: 1px solid;
+    border-collapse: collapse;
+}
