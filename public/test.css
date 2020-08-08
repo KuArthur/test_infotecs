@@ -1,6 +1,5 @@
 .table {
-    max-width: 50%;
-    width: 100%;
+    width: 50%
 }
 
 .table,.table__column,.table__row {
