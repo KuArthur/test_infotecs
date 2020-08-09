@@ -7,9 +7,6 @@
     border-collapse: collapse;
 }
 
-
-/* .table__column {
-} */
 .table__about {
     display: -webkit-box;
     -webkit-line-clamp: 2;
