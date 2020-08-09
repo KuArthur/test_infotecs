@@ -2,7 +2,19 @@
     width: 50%
 }
 
-.table,.table__column,.table__row {
+.table,.table__column,.table__column_head,.table__row {
     border: 1px solid;
     border-collapse: collapse;
+}
+
+
+/* .table__column {
+} */
+.table__about {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+    
 }
